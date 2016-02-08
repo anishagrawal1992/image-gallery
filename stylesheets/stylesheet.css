@@ -92,11 +92,7 @@ footer {
   display: inline-block;
 }
 
-@media only screen and (min-width: 630px) {
-  .imageGallery li:nth-child(2n) {
-    padding: 0 79px 0 0;
-  }
-}
+
 
 
 /*modal*/
