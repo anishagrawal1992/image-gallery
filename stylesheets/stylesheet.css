@@ -93,7 +93,7 @@ footer {
 }
 
 @media only screen and (min-width: 630px) {
-  .imageGallery li:nth-child(2n+1) {
+  .imageGallery li:nth-child(2n) {
     padding: 0 79px 0 0;
   }
 }
